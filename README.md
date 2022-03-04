@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arualiy (Laura)
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python Fundaments
+- 📫 How to reach me lauracardoso359@gmail.com
